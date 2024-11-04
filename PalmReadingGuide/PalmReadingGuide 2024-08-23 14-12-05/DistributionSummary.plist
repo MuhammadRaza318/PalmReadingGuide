@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Palm Reading.ipa</key>
+	<array>
+		<dict>
+			<key>architectures</key>
+			<array>
+				<string>arm64</string>
+			</array>
+			<key>buildNumber</key>
+			<string>1</string>
+			<key>certificate</key>
+			<dict>
+				<key>SHA1</key>
+				<string>A9F1F05F06872793020A845B953315BD73424388</string>
+				<key>dateExpires</key>
+				<string>23/03/2025</string>
+				<key>type</key>
+				<string>Cloud Managed Apple Distribution</string>
+			</dict>
+			<key>embeddedBinaries</key>
+			<array>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>arm64</string>
+					</array>
+					<key>buildNumber</key>
+					<string>1</string>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>A9F1F05F06872793020A845B953315BD73424388</string>
+						<key>dateExpires</key>
+						<string>23/03/2025</string>
+						<key>type</key>
+						<string>Cloud Managed Apple Distribution</string>
+					</dict>
+					<key>name</key>
+					<string>FBLPromises.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>MFCL5NRH9V</string>
+						<key>name</key>
+						<string>Abdullah Saleem</string>
+					</dict>
+					<key>versionNumber</key>
+					<string>1.2.12</string>
+				</dict>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>arm64</string>
+					</array>
+					<key>buildNumber</key>
+					<string>1</string>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>A9F1F05F06872793020A845B953315BD73424388</string>
+						<key>dateExpires</key>
+						<string>23/03/2025</string>
+						<key>type</key>
+						<string>Cloud Managed Apple Distribution</string>
+					</dict>
+					<key>name</key>
+					<string>GoogleUtilities.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>MFCL5NRH9V</string>
+						<key>name</key>
+						<string>Abdullah Saleem</string>
+					</dict>
+					<key>versionNumber</key>
+					<string>7.3.1</string>
+				</dict>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>arm64</string>
+					</array>
+					<key>buildNumber</key>
+					<string>1</string>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>A9F1F05F06872793020A845B953315BD73424388</string>
+						<key>dateExpires</key>
+						<string>23/03/2025</string>
+						<key>type</key>
+						<string>Cloud Managed Apple Distribution</string>
+					</dict>
+					<key>name</key>
+					<string>nanopb.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>MFCL5NRH9V</string>
+						<key>name</key>
+						<string>Abdullah Saleem</string>
+					</dict>
+					<key>versionNumber</key>
+					<string>2.30907.0</string>
+				</dict>
+			</array>
+			<key>entitlements</key>
+			<dict>
+				<key>application-identifier</key>
+				<string>MFCL5NRH9V.com.gameview.PalmReadingGuide</string>
+				<key>com.apple.developer.team-identifier</key>
+				<string>MFCL5NRH9V</string>
+				<key>get-task-allow</key>
+				<false/>
+			</dict>
+			<key>name</key>
+			<string>Palm Reading.app</string>
+			<key>profile</key>
+			<dict>
+				<key>UUID</key>
+				<string>c27f22ce-c0c9-4785-a3cd-dc37fade5e72</string>
+				<key>dateExpires</key>
+				<string>23/03/2025</string>
+				<key>name</key>
+				<string>iOS Team Ad Hoc Provisioning Profile: com.gameview.PalmReadingGuide</string>
+			</dict>
+			<key>team</key>
+			<dict>
+				<key>id</key>
+				<string>MFCL5NRH9V</string>
+				<key>name</key>
+				<string>Abdullah Saleem</string>
+			</dict>
+			<key>versionNumber</key>
+			<string>1.2</string>
+		</dict>
+	</array>
+</dict>
+</plist>
